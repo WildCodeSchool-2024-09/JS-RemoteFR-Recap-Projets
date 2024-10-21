@@ -1,4 +1,19 @@
-# Projet 1 - HTML / CSS / JS
+# Recapitulatif des projets étudiants
+
+## Description
+
+Dans cet espace, vous trouverez des projets réalisés par les étudiants de la Wild Code School REMOTE de la session de septembre 2024.
+
+## Sommaire
+
+- [Recapitulatif des projets étudiants](#recapitulatif-des-projets-étudiants)
+  - [Description](#description)
+  - [Sommaire](#sommaire)
+    - [Projet 1](#projet-1)
+
+### Projet 1
+
+![skills](https://skillicons.dev/icons?i=html,css,git,github,figma,js)
 
 | Noms                     | github                                                              | Lien utile                                                                                                       |
 | ------------------------ | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
