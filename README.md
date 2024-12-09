@@ -6,11 +6,12 @@ Dans cet espace, vous trouverez des projets réalisés par les étudiants de la 
 
 ## Sommaire
 
-- [Recapitulatif des projets étudiants](#recapitulatif-des-projets-étudiants)
-  - [Description](#description)
-  - [Sommaire](#sommaire)
-    - [Projet 1](#projet-1)
-    - [Projet 2](#projet-2)
+-   [Recapitulatif des projets étudiants](#recapitulatif-des-projets-étudiants)
+    -   [Description](#description)
+    -   [Sommaire](#sommaire)
+        -   [Projet 1](#projet-1)
+        -   [Projet 2](#projet-2)
+        -   [Protojam](#protojam)
 
 ### Projet 1
 
@@ -31,17 +32,35 @@ Dans cet espace, vous trouverez des projets réalisés par les étudiants de la 
 
 ![skills](https://skillicons.dev/icons?i=html,css,react,vite,git,github,figma,ts,githubactions)
 
-| Noms         | github                                                                                        | Lien utile                                                                                     |
-| ------------ | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Strasdom     | [lien](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P2-strasdom)                | [Production](https://js-remote-orange-p2-strasdom-client.vercel.app/)                          |
-| TravelUp     | [lien](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-P2-TravelUp)             | [Production](https://travel-up.netlify.app/)                                                   |
-| Sloubi       | [lien](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-Sloubi-P2)      | [Production](https://boarder-line-project-client.vercel.app/)                                  |
-| StrasGite    | [lien](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P2-strasgite)               | ❌                                                                                             |
-| Pokeflex     | [lien](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-P2-Pokeflex)             | [Production](https://pokeflex-wild.netlify.app/)                                               |
-| MusicWild    | ❌                                                                                            | ❌                                                                                             |
-| StrassBouq   | [lien](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P2-strasbouq)               | ❌                                                                                             |
-| WathYourMood | [lien](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-P2-WatchYourMood)        | [Production](https://watchyourmood.netlify.app/)                                               |
-| Cartocodile  | [lien](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-CartoCodile-P2) | [Production](https://js-remote-fr-vert-crew-code-ile-carto-codile-p2-marco-client.vercel.app/) |
-| Stras'zick   | [lien](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P2-straszik)                | ❌                                                                                             |
-| GenkiAnime   | [lien](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-P2-Anime)                | [Production](https://genkianime.netlify.app/)                                                  |
-| MIB          | [lien](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-MIB-P2)         | [Production](https://mib-wcs-news.vercel.app/)                                                 |
+| Noms         | github                                                                                          | Lien utile                                                                                     |
+| ------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Strasdom     | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P2-strasdom)                | [Production](https://js-remote-orange-p2-strasdom-client.vercel.app/)                          |
+| TravelUp     | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-P2-TravelUp)             | [Production](https://travel-up.netlify.app/)                                                   |
+| Sloubi       | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-Sloubi-P2)      | [Production](https://boarder-line-project-client.vercel.app/)                                  |
+| StrasGite    | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P2-strasgite)               | ❌                                                                                             |
+| Pokeflex     | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-P2-Pokeflex)             | [Production](https://pokeflex-wild.netlify.app/)                                               |
+| MusicWild    | ❌                                                                                              | ❌                                                                                             |
+| StrassBouq   | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P2-strasbouq)               | ❌                                                                                             |
+| WathYourMood | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-P2-WatchYourMood)        | [Production](https://watchyourmood.netlify.app/)                                               |
+| Cartocodile  | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-CartoCodile-P2) | [Production](https://js-remote-fr-vert-crew-code-ile-carto-codile-p2-marco-client.vercel.app/) |
+| Stras'zick   | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P2-straszik)                | ❌                                                                                             |
+| GenkiAnime   | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-P2-Anime)                | [Production](https://genkianime.netlify.app/)                                                  |
+| MIB          | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-MIB-P2)         | [Production](https://mib-wcs-news.vercel.app/)                                                 |
+
+### Protojam
+
+![skills](https://skillicons.dev/icons?i=html,css,react,vite,git,github,figma,ts)
+
+| Noms               | github                                                                | Lien utile                                  |
+| ------------------ | --------------------------------------------------------------------- | ------------------------------------------- |
+| Hackathon          | [Github](https://github.com/Juloh-tuc/Hackathon)                      | ❌                                          |
+| MeteoApo           | [Github](https://github.com/RomainVarra/MeteoApo)                     | ❌                                          |
+| protojam           | [Github](https://github.com/Qiu-Nick/protoJam/tree/main/my-react-app) | ❌                                          |
+| coup_de_main_local | [Github](https://github.com/maximetricoche/coup_de_main_local)        | ❌                                          |
+| Reunite-Resolve    | [Github](https://github.com/Maanon22/Reunite-Resolve)                 | ❌                                          |
+| Protojam-1         | [Github](https://github.com/Alexhian/protojam-1)                      | ❌                                          |
+| Guide-de-survie    | [Github](https://github.com/Foxrim/Guide-de-survie)                   | ❌                                          |
+| Karotaine          | [Github](https://github.com/mathildeglet-cmd/Karotaine)               | [Production](https://karotaine.vercel.app/) |
+| reConnect          | [Github](https://github.com/rudy-flexcode/reConnect)                  | ❌                                          |
+| protojam1fullStack | [Github](https://github.com/clement4444/protojam1FullStatk)           | ❌                                          |
+| Happy lottery      | [Github](https://github.com/LudovicAd95/Happy-lottery-)               | ❌                                          |
