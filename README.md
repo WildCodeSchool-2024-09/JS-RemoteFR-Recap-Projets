@@ -6,13 +6,13 @@ Dans cet espace, vous trouverez des projets réalisés par les étudiants de la 
 
 ## Sommaire
 
-- [Recapitulatif des projets étudiants](#recapitulatif-des-projets-étudiants)
-  - [Description](#description)
-  - [Sommaire](#sommaire)
-    - [Projet 1](#projet-1)
-    - [Projet 2](#projet-2)
-    - [Protojam](#protojam)
-    - [Projet 3](#projet-3)
+-   [Recapitulatif des projets étudiants](#recapitulatif-des-projets-étudiants)
+    -   [Description](#description)
+    -   [Sommaire](#sommaire)
+        -   [Projet 1](#projet-1)
+        -   [Projet 2](#projet-2)
+        -   [Protojam](#protojam)
+        -   [Projet 3](#projet-3)
 
 ### Projet 1
 
@@ -47,6 +47,7 @@ Dans cet espace, vous trouverez des projets réalisés par les étudiants de la 
 | Stras'zick   | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P2-straszik)                | ❌                                                                                             |
 | GenkiAnime   | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-P2-Anime)                | [Production](https://genkianime.netlify.app/)                                                  |
 | MIB          | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-MIB-P2)         | [Production](https://mib-wcs-news.vercel.app/)                                                 |
+| Pokédule     | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vendangeurs-P2-Mudule)           | [Production](https://pokedule.vercel.app/)                                                     |
 
 ### Protojam
 
@@ -70,23 +71,23 @@ Dans cet espace, vous trouverez des projets réalisés par les étudiants de la 
 
 ![skills](https://skillicons.dev/icons?i=css,react,vite,git,github,figma,ts,githubactions,nodejs,mysql,npm)
 
-| Noms          | Github                                                                                           | Lien utile |
-| ------------- | ------------------------------------------------------------------------------------------------ | ---------- |
-| Inclusiverse  | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-Inclusiverse)             | ❌         |
-| E-art         | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-E-Art)                    | ❌         |
-| Road-addict   | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-Vroom)                    | ❌         |
-| MyBodyQuest   | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-MyBodyQuest)              | ❌         |
-| Mathemagie    | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-Mathemagie)               | ❌         |
-| BibliClasse   | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vendangeurs-P3-BiblioClasse)      | ❌         |
-| Woody Gallery | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vendangeurs-P3-Woody-Gallery)     | ❌         |
-| Wildcom       | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vendangeurs-P3-WildCom)           | ❌         |
-| Arcadia       | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vendangeurs-P3-Arcadia)           | ❌         |
-| Mapp Gaming   | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vendangeurs-P3-Mapp-Gaming)       | ❌         |
-| CineStream    | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P3-cinestream)               | ❌         |
-| Fitflow       | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P3-fitflow)                  | ❌         |
-| AuVerreDeVin  | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P3-auverredevin)             | ❌         |
-| SpeedJob      | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P3-speedjob)                 | ❌         |
-| Externatic    | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-Externatic-P3)   | ❌         |
-| Eating NamNam | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-EatingNamNam-P3) | ❌         |
-| GeoCode       | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-GeoCode-P3)      | ❌         |
-| MakeSense     | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-MakeSense-P3)    | ❌         |
+| Noms          | Github                                                                                           | Lien utile                                       |
+| ------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
+| Inclusiverse  | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-Inclusiverse)             | ❌                                               |
+| E-art         | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-E-Art)                    | ❌                                               |
+| Road-addict   | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-Vroom)                    | ❌                                               |
+| MyBodyQuest   | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-MyBodyQuest)              | ❌                                               |
+| Mathemagie    | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Crew404-Mathemagie)               | ❌                                               |
+| BibliClasse   | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vendangeurs-P3-BiblioClasse)      | ❌                                               |
+| Woody Gallery | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vendangeurs-P3-Woody-Gallery)     | ❌                                               |
+| Wildcom       | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vendangeurs-P3-WildCom)           | ❌                                               |
+| Arcadia       | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vendangeurs-P3-Arcadia)           | ❌                                               |
+| Mapp Gaming   | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vendangeurs-P3-Mapp-Gaming)       | ❌                                               |
+| CineStream    | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P3-cinestream)               | [Production](https://projet3.clement-fiquet.fr/) |
+| Fitflow       | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P3-fitflow)                  | ❌                                               |
+| AuVerreDeVin  | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P3-auverredevin)             | ❌                                               |
+| SpeedJob      | [Github](https://github.com/WildCodeSchool-2024-09/js-remote-orange-P3-speedjob)                 | ❌                                               |
+| Externatic    | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-Externatic-P3)   | ❌                                               |
+| Eating NamNam | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-EatingNamNam-P3) | ❌                                               |
+| GeoCode       | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-GeoCode-P3)      | ❌                                               |
+| MakeSense     | [Github](https://github.com/WildCodeSchool-2024-09/JS-RemoteFR-Vert-CrewCodeIle-MakeSense-P3)    | ❌                                               |
